@@ -1,0 +1,1 @@
+#This is init command of git where you can create new repo remote in github 
