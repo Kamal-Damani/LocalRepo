@@ -1,1 +1,1 @@
-#This is init command of git where you can create new repo i.e remote in github 
+# This is init command of git where you can create new repo i.e remote in github 
